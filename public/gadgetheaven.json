@@ -1,0 +1,288 @@
+[
+  {
+    "product_id": "P001",
+    "product_title": "Apple iPhone 15 Pro Max",
+    "product_image": "https://example.com/iphone15promax.jpg",
+    "category": "Smartphones",
+    "price": 1299,
+    "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
+    "specification": [
+      "6.7-inch display",
+      "A17 Bionic chip",
+      "Triple-camera system"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P002",
+    "product_title": "Samsung Galaxy S23 Ultra",
+    "product_image": "https://example.com/galaxys23ultra.jpg",
+    "category": "Smartphones",
+    "price": 1199,
+    "description": "High-end performance and stunning photography.",
+    "specification": [
+      "6.8-inch display",
+      "Snapdragon 8 Gen 2",
+      "Quad-camera system"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P003",
+    "product_title": "Google Pixel 8 Pro",
+    "product_image": "https://example.com/pixel8pro.jpg",
+    "category": "Smartphones",
+    "price": 999,
+    "description": "Google's best AI-powered smartphone.",
+    "specification": [
+      "6.7-inch display",
+      "Tensor G3 processor",
+      "50MP main camera"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P004",
+    "product_title": "OnePlus 12",
+    "product_image": "https://example.com/oneplus12.jpg",
+    "category": "Smartphones",
+    "price": 899,
+    "description": "Flagship performance at a competitive price.",
+    "specification": [
+      "6.7-inch AMOLED",
+      "Snapdragon 8 Gen 2",
+      "Triple-camera system"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P005",
+    "product_title": "Sony Xperia 1 V",
+    "product_image": "https://example.com/xperia1v.jpg",
+    "category": "Smartphones",
+    "price": 1299,
+    "description": "Cinema-quality imaging and display.",
+    "specification": [
+      "6.5-inch 4K OLED",
+      "Snapdragon 8 Gen 2",
+      "Triple-camera system"
+    ],
+    "availability": false,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P006",
+    "product_title": "Xiaomi 13 Pro",
+    "product_image": "https://example.com/xiaomi13pro.jpg",
+    "category": "Smartphones",
+    "price": 1099,
+    "description": "A blend of elegance and power.",
+    "specification": [
+      "6.73-inch AMOLED",
+      "Leica triple-camera system",
+      "Snapdragon 8 Gen 2"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+
+  {
+    "product_id": "W001",
+    "product_title": "Apple Watch Series 9",
+    "product_image": "https://example.com/applewatch9.jpg",
+    "category": "Watches",
+    "price": 399,
+    "description": "Advanced health monitoring and seamless integration.",
+    "specification": ["Always-On Retina display", "ECG app", "Crash detection"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "W002",
+    "product_title": "Samsung Galaxy Watch 6",
+    "product_image": "https://example.com/galaxywatch6.jpg",
+    "category": "Watches",
+    "price": 349,
+    "description": "Elegant design with advanced fitness tracking.",
+    "specification": [
+      "1.4-inch AMOLED",
+      "Body composition analysis",
+      "5ATM water resistance"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "W003",
+    "product_title": "Garmin Forerunner 965",
+    "product_image": "https://example.com/garminforerunner965.jpg",
+    "category": "Watches",
+    "price": 599,
+    "description": "Advanced GPS running smartwatch with health monitoring.",
+    "specification": ["AMOLED display", "Pulse Ox sensor", "Solar charging"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "W004",
+    "product_title": "Fossil Gen 6",
+    "product_image": "https://example.com/fossilgen6.jpg",
+    "category": "Watches",
+    "price": 329,
+    "description": "Stylish smartwatch with Wear OS by Google.",
+    "specification": ["1.28-inch AMOLED", "Heart rate monitor", "Swimproof"],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "W005",
+    "product_title": "Fitbit Sense 2",
+    "product_image": "https://example.com/fitbitsense2.jpg",
+    "category": "Watches",
+    "price": 299,
+    "description": "Comprehensive health and fitness tracking.",
+    "specification": ["Stress management", "Sleep score", "GPS"],
+    "availability": true,
+    "rating": 4.5
+  },
+
+  {
+    "product_id": "L001",
+    "product_title": "Apple MacBook Pro 16-inch",
+    "product_image": "https://example.com/macbookpro16.jpg",
+    "category": "Laptops",
+    "price": 2499,
+    "description": "Unmatched performance for professionals.",
+    "specification": ["M2 Max chip", "16-inch Liquid Retina XDR", "1TB SSD"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "L002",
+    "product_title": "Dell XPS 15",
+    "product_image": "https://example.com/dellxps15.jpg",
+    "category": "Laptops",
+    "price": 1899,
+    "description": "Compact, powerful, and feature-rich.",
+    "specification": ["Intel Core i9", "NVIDIA RTX 4070", "4K OLED display"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "L003",
+    "product_title": "HP Spectre x360",
+    "product_image": "https://example.com/hpspectrex360.jpg",
+    "category": "Laptops",
+    "price": 1599,
+    "description": "Premium 2-in-1 ultrabook.",
+    "specification": ["13.5-inch OLED", "Intel Evo", "Convertible design"],
+    "availability": true,
+    "rating": 4.6
+  },
+
+  {
+    "product_id": "A001",
+    "product_title": "Sony WH-1000XM5 Headphones",
+    "product_image": "https://example.com/wh1000xm5.jpg",
+    "category": "Accessories",
+    "price": 399,
+    "description": "Industry-leading noise-canceling headphones.",
+    "specification": [
+      "30-hour battery life",
+      "Quick charge",
+      "Premium sound quality"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "A002",
+    "product_title": "Logitech MX Master 3S Mouse",
+    "product_image": "https://example.com/mxmaster3s.jpg",
+    "category": "Accessories",
+    "price": 99,
+    "description": "High-precision mouse for professionals.",
+    "specification": [
+      "Ergonomic design",
+      "Ultra-fast scrolling",
+      "Bluetooth connectivity"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "A003",
+    "product_title": "Anker PowerCore 26800 Portable Charger",
+    "product_image": "https://example.com/powercore26800.jpg",
+    "category": "Accessories",
+    "price": 79,
+    "description": "High-capacity portable power bank.",
+    "specification": [
+      "26,800mAh capacity",
+      "Dual USB ports",
+      "18W fast charging"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "A004",
+    "product_title": "Razer BlackWidow V3 Keyboard",
+    "product_image": "https://example.com/blackwidowv3.jpg",
+    "category": "Accessories",
+    "price": 149,
+    "description": "Mechanical keyboard for gaming enthusiasts.",
+    "specification": [
+      "RGB lighting",
+      "Mechanical switches",
+      "Wired connection"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "A005",
+    "product_title": "Blue Yeti USB Microphone",
+    "product_image": "https://example.com/blueyeti.jpg",
+    "category": "Accessories",
+    "price": 129,
+    "description": "Professional-grade microphone for streaming and recording.",
+    "specification": [
+      "Cardioid mode",
+      "Plug-and-play",
+      "Adjustable gain control"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "A006",
+    "product_title": "Samsung T7 Portable SSD",
+    "product_image": "https://example.com/t7ssd.jpg",
+    "category": "Accessories",
+    "price": 159,
+    "description": "High-speed external SSD for secure storage.",
+    "specification": ["USB-C connection", "1TB capacity", "Shock-resistant"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "A007",
+    "product_title": "Belkin BoostCharge Wireless Charger",
+    "product_image": "https://example.com/boostcharge.jpg",
+    "category": "Accessories",
+    "price": 49,
+    "description": "Wireless charging for all Qi-enabled devices.",
+    "specification": [
+      "10W fast charging",
+      "Non-slip surface",
+      "Compact design"
+    ],
+    "availability": true,
+    "rating": 4.6
+  }
+]
