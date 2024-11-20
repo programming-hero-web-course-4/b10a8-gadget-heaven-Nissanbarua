@@ -1,4 +1,6 @@
-# Dashboard Management System
+#Project Name - Gadget Haven
+
+## Dashboard Management System
 
 A web application built with React to manage a user's cart and wishlist. This dashboard allows users to add items to their cart or wishlist, view them dynamically, and manage their data seamlessly.
 
