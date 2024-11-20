@@ -1,4 +1,4 @@
-#Project Name - Gadget Haven
+# Gadget Haven
 
 ## Dashboard Management System
 
