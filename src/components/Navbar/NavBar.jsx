@@ -1,19 +1,20 @@
 import React from "react";
 import { MdOutlineShoppingCart } from "react-icons/md";
 import { FaRegHeart } from "react-icons/fa6";
+import { NavLink } from "react-router-dom";
 
 const NavBar = () => {
   const links = (
     <>
       <li>
-        <a>Home</a>
+        <NavLink to='/'>Home</NavLink>
       </li>
       <li>
         <a>Statistics</a>
       </li>
 
       <li>
-        <a>Dashboard</a>
+        <NavLink to="/dashboard">Dashboard</NavLink>
       </li>
     </>
   );

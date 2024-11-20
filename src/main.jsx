@@ -7,6 +7,7 @@ import Root from "./Root/Root.jsx";
 import NotFound from "./AllPages/NotFound/NotFound.jsx";
 import Home from "./AllPages/Home/Home.jsx";
 import ProductDetails from "./AllPages/ProductDetails/ProductDetails.jsx";
+import Dashboard from "./AllPages/Dashboard/Dashboard.jsx";
 
 const router = createBrowserRouter([
   {
@@ -21,7 +22,11 @@ const router = createBrowserRouter([
       {
         path: "/products/:productId",
         element: <ProductDetails></ProductDetails>,
-        loader : ()=> fetch('../public/gadgetheaven.json')
+        loader: () => fetch("../public/gadgetheaven.json"),
+      },
+      {
+        path: "/dashboard",
+        element: <Dashboard></Dashboard>,
       },
     ],
   },
