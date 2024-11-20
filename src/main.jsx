@@ -6,6 +6,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Root from "./Root/Root.jsx";
 import NotFound from "./AllPages/NotFound/NotFound.jsx";
 import Home from "./AllPages/Home/Home.jsx";
+import ProductDetails from "./AllPages/ProductDetails/ProductDetails.jsx";
 
 const router = createBrowserRouter([
   {
@@ -16,6 +17,11 @@ const router = createBrowserRouter([
       {
         path: "/",
         element: <Home></Home>,
+      },
+      {
+        path: "/products/:productId",
+        element: <ProductDetails></ProductDetails>,
+        loader : ()=> fetch('../public/gadgetheaven.json')
       },
     ],
   },
