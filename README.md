@@ -4,6 +4,9 @@ A web application built with React to manage a user's cart and wishlist. This da
 
 ---
 
+##Live Link 
+-[Live Link}(https://fat-water.surge.sh/)
+
 ## Features
 
 1. **Cart Management**:  
@@ -52,8 +55,4 @@ A web application built with React to manage a user's cart and wishlist. This da
 
 ---
 
-## How to Run the Project
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
