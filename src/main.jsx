@@ -22,7 +22,7 @@ const router = createBrowserRouter([
       {
         path: "/products/:productId",
         element: <ProductDetails></ProductDetails>,
-        loader: () => fetch("../public/gadgetheaven.json"),
+        loader: () => fetch("/gadgetheaven.json"),
       },
       {
         path: "/dashboard",

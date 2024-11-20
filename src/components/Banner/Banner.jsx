@@ -3,8 +3,8 @@ import BannerImg from "../../assets/banner.jpg";
 
 const Banner = () => {
   return (
-    <section>
-      <div className="hero bg-[#9538E2] min-h-screen text-white ">
+    <section >
+      <div className="hero bg-[#9538E2] min-h-screen text-white  mx-auto">
         <div className="hero-content text-center">
           <div className="mx-28">
             <h1 className="text-5xl font-bold">

@@ -7,7 +7,7 @@ const ProductCard = ({ product }) => {
     <div className="card bg-base-100  shadow-xl ">
       <figure className="px-8 pt-10">
         <img
-          src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
+          src={product_image}
           alt="Shoes"
           className="rounded-xl h-[180px] "
         />
